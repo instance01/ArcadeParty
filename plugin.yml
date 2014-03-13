@@ -1,0 +1,11 @@
+name: ArcadeParty
+main: com.comze_instancelabs.arcadeparty.Main
+version: 1.0
+author: instancelabs
+commands:
+   party:
+      description: Main command
+      usage: /cm [action]
+   arcade:
+      description: Main command
+      usage: /colormatch [action]
